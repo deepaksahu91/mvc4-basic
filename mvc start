@@ -1,0 +1,6 @@
+using System;
+2	using NUnit.Framework;
+3	using AspNetMvc4.ServiceInterface;
+4	using AspNetMvc4.ServiceModel;
+5	using ServiceStack.Testing;
+6	using ServiceStack;

@@ -1,2 +1,2 @@
-# MVC 4 Basic(Requirement)
+# MVC 4 Basic
 ---------------

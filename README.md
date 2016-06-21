@@ -1,3 +1,5 @@
-# mvc4-basic
-   description: In this tutorial we'll explore ASP.Net MVC 4 and give you a taste of this awesome new package. 
-…	
+# MVC 4 Basic(Requirement)
+---------------
+1.Install Visual Studio 2010 
+2.SQL Server 2008
+3.IIS 6

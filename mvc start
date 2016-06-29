@@ -1,6 +1,7 @@
-using System;
-2	using NUnit.Framework;
-3	using AspNetMvc4.ServiceInterface;
-4	using AspNetMvc4.ServiceModel;
-5	using ServiceStack.Testing;
-6	using ServiceStack;
+To Begin a Form->@using (Html.BeginForm()){}  
+------------------------
+Create a Label-> @Html.LabelFor
+Create a Textbox->@Html.TextBoxFor
+Create a Password->@Html.PasswordFor
+Submit a Form-><input type="submit" value="Log in" />
+Hyperlink->@Html.ActionLink("Register", "Register")

@@ -4,4 +4,5 @@ Data  Access  in an MVC  Application
 3.Add  a  Connection String to  the  web.config  file, in the root directory.
 4.Map  “Employee”  model   class  to the  database  table,  tblEmployee  using  “Table” attribute.
 5.required Changes   to “Details” Action Method in “EmployeeController”.
-6.in  Global.asax  file  turn off database  initialize.
+6.in  Global.asax  file  turn off database  initialization.
+     

@@ -1,0 +1,7 @@
+Data  Access  in an MVC  Application
+1.Install  EF.
+2.Add  EmployeeContext.cs    class file to the model Folder.
+3.Add  a  Connection String to  the  web.config  file, in the root directory.
+4.Map  “Employee”  model   class  to the  database  table,  tblEmployee  using  “Table” attribute.
+5.required Changes   to “Details” Action Method in “EmployeeController”.
+6.in  Global.asax  file  turn off database  initialize.

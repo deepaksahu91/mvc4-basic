@@ -1,0 +1,23 @@
+ViewBag.Countries=new List<string>()
+            {
+               "India",
+                "US",
+                "UK",
+                "CANADA"
+
+            };
+            return View();
+            
+            ..........................
+            @{
+    ViewBag.Title = "CountriesList";
+}
+
+<h2>CountriesList</h2>
+<ul>
+@foreach (String strcountry in ViewBag.Countries)
+{
+  <li>@strcountry</li>   
+}
+
+</ul>
